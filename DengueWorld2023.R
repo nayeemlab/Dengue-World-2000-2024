@@ -292,31 +292,6 @@ dev.off()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##############################Continentwise
 setwd("E:\\ResearchProject\\Najmul Bhai\\Dengue\\Dengue World 2023")
 
@@ -435,4 +410,8 @@ library(gridExtra)
 tiff("Dengue2023RMap.tiff", units="in", width=6, height=6, res=300)
 gridExtra::grid.arrange(x,y, nrow=2, ncol=1)
 dev.off()
+
+
+
+
 
