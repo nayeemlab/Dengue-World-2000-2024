@@ -1,0 +1,258 @@
+﻿who_region,Country ,Climate_Zone,WorldPop,WPPM,Hemisphere,Cases,Cases/M,Deaths,Deaths/M,CFR,Climate_Zone,iso_code,WHO Region,Continents,WPPM,urban,Popdens,Obesity_rate,Diabetes_prevalence,Old-age,Hypertension,Avg_temp,Tot_Rain
+EMR,Afghanistan,Subtropical,40099462,40.099462,Northern,4722,117.7571909,2,0.049875981,0.042354934,Subtropical,AFG,Eastern Mediterranean Region,Asia,42.239854,26.616,63.846,5.5,10.9,4.370692,40,4.64,435.44
+EUR,Albania,Subtropical,2854710,2.85471,Northern,0,0,0,0,,Subtropical,ALB,European Region,Europe,2.832439,63.799,102.623,21.7,10.2,24.446985,42,16.32,1033.22
+AFR,Algeria,Subtropical,45606480,45.60648,Northern,0,0,0,0,,Subtropical,DZA,African Region,Africa,45.60648,74.772,19.383,27.4,7.1,10.1232195,36,26.14,4.49
+AMR,American Samoa,Tropical,43914,0.043914,Southern,0,0,0,0,,Tropical,AS,Region of the Americas,Oceania,0.043914,87.196,237.605,,20.3,11.641994,,27.74,943.28
+EUR,Andorra,Subtropical,79034,0.079034,Northern,0,0,0,0,,Subtropical,AND,European Region,Europe,0.080088,87.811,172.034,25.6,9.7,21.30046,31,7.65,1183.46
+AFR,Angola,Tropical,34503774,34.503774,Southern,86,2.492480967,1,0.028982337,1.162790698,Tropical,AGO,African Region,Africa,36.684202,68.081,29.478,8.2,4.6,5.342691,39,29.1,771.33
+AMR,Anguilla,Tropical,15753,0.015753,Northern,5,317.3998603,0,0,0,Tropical,AIA,Region of the Americas,North America,0.015899,,163.75,,,17.280926,,28.36,946.2
+,Antarctica,Polar,,0,,0,,0,,,Polar,AQ,,Antarctica,0,,,,,,,-11.96,298.42
+AMR,Antigua,Subtropical,93219,0.093219,Northern,163,1748.57057,0,0,0,Subtropical,ATG,Region of the Americas,North America,0.094298,24.346,212.081,18.9,11.7,15.924902,43,28.46,946.2
+AMR,Antilles,Subtropical,,0,Northern,0,,0,,,Subtropical,AN,Region of the Americas,North America,0,,,,,,,,
+AMR,Argentina,Subtropical,45276780,45.27678,Southern,581559,12844.53091,408,9.011241524,0.070156252,Subtropical,ARG,Region of the Americas,South America,45.773884,92.347,16.311,28.3,5.4,18.573557,48,15.83,546.29
+EUR,Armenia,Subtropical,2790974,2.790974,Northern,0,0,0,0,,Subtropical,ARM,European Region,Asia,2.77797,63.573,103.408,20.2,5.6,19.643763,47,7.76,923.09
+AMR,Aruba,Subtropical,106537,0.106537,Northern,85,797.8448802,0,0,0,Subtropical,ABW,Region of the Americas,South America,0.106277,44.052,599.658,,,24.64063,,28.61,671.54
+AMR,Ascension Island,Tropical,,0,Southern,0,,0,,,Tropical,AC,Region of the Americas,South America,0,,,,,,,,
+WPR,Australia,Subtropical,25921089,25.921089,Southern,2298,88.65368272,0,0,0,Subtropical,AUS,Western Pacific Region,Oceania,26.439111,86.488,,20.1,6.4,26.8831,29,22.96,296.66
+EUR,Austria,Polar,8922082,8.922082,Northern,0,0,0,0,,Polar,AUT,European Region,Europe,8.95896,59.256,3.443,29,4.6,30.73231,34,7.03,1455.62
+EUR,Azerbaijan,Subtropical,10312992,10.312992,Northern,0,0,0,0,,Subtropical,AZE,European Region,Asia,10.412651,57.17,110.646,19.9,5.6,11.501091,41,17.05,645.85
+AMR,Azores,Subtropical,,0,Northern,0,,0,,,Subtropical,AZ,Region of the Americas,North America,0,,124.83,,,,,,
+AMR,Bahamas,Tropical,407906,0.407906,Northern,1,2.451545209,0,0,0,Tropical,BHS,Region of the Americas,North America,0.412623,83.492,74.55,31.6,8.8,16.354866,45,26.6,902.25
+EMR,Bahrain,Subtropical,1485509,1.485509,Northern,0,0,0,0,,Subtropical,BHR,Eastern Mediterranean Region,Asia,1.485509,89.743,2004.681,29.8,11.3,4.700133,39,28.17,104.63
+SEAR,Bangladesh,Tropical,169356251,169.356251,Northern,101214,597.6395876,557,3.288924954,0.550319126,Tropical,BGD,South-East Asia Region,Asia,172.954319,39.711,1317.254,3.6,14.2,9.675464,29,25.75,2203.08
+AMR,Barbados,Tropical,281200,0.2812,Northern,1117,3972.261735,0,0,0,Tropical,BRB,Region of the Americas,North America,0.281995,31.324,656.595,23.1,14,24.22919,42,,
+AMR,Barbuda,Tropical,,0,Northern,0,,0,,,Tropical,AG,Region of the Americas,North America,0,,,,,,,,
+EUR,Belarus,Polar,9578167,9.578167,Northern,0,0,0,0,,Polar,BLR,European Region,Europe,9.498238,80.326,44.925,24.5,5.6,25.745773,49,8.4,742.98
+EUR,Belgium,Polar,11611419,11.611419,Northern,0,0,0,0,,Polar,BEL,European Region,Europe,11.68614,98.153,386.845,22.1,3.6,31.654547,30,10.96,1173.19
+AMR,Belize,Tropical,400031,0.400031,Northern,1148,2869.777592,0,0,0,Tropical,BLZ,Region of the Americas,North America,0.410825,46.396,18.023,24.1,14.5,7.1051335,38,24.84,2382.82
+AFR,Benin,Tropical,12996895,12.996895,Northern,41,3.154599618,1,0.076941454,2.43902439,Tropical,BEN,African Region,Africa,13.712828,49.534,125.142,9.6,1.1,5.606263,31,27.4,1057.68
+AMR,Bermuda,Subtropical,64185,0.064185,Northern,1,15.57996417,0,0,0,Subtropical,BMU,Region of the Americas,North America,0.064069,100,1198.111,,13,32.045784,,22.42,1236.92
+SEAR,Bhutan,Subtropical,787424,0.787424,Northern,0,0,0,0,,Subtropical,BT,South-East Asia Region,Asia,0.787424,43.686,20.482,6.4,10.4,8.823322,43,8.05,3595.81
+AMR,Bolivia,Tropical,12079472,12.079472,Southern,50439,4175.596417,29,2.400767186,0.057495192,Tropical,BOL,Region of the Americas,South America,12.388571,70.83,11.303,20.2,5.5,8.627561,28,26.43,1260.42
+AMR,"Bonaire, Saint Eustatius and Saba",Tropical,26706,0.026706,Northern,207,7751.067176,0,0,0,Tropical,BES,Region of the Americas,North America,,,,,,,,,
+EUR,Bosnia and Herzegovina,Subtropical,3270943,3.270943,Northern,0,0,0,0,,Subtropical,BIH,European Region,Europe,3.210847,49.841,62.212,17.9,9.1,33.189537,44,9.92,1060.84
+EUR,Botswana,Subtropical,2675352,2.675352,Southern,0,0,0,0,,Subtropical,BWA,European Region,Africa,2.675352,72.224,4.376,18.9,5.2,6.224666,44,24.18,396.27
+AMR,Brazil,Tropical,214326223,214.326223,Southern,10223107,47698.81565,6068,28.31198122,0.059355732,Tropical,BRA,Region of the Americas,South America,216.422446,87.555,25.262,22.1,8.8,15.310751,45,28.77,820.94
+AMR,British Virgin Islands,Subtropical,31122,0.031122,Northern,87,2795.450164,0,0,0,Subtropical,VGB,Region of the Americas,North America,,,,,,,,,
+WPR,Brunei,Tropical,452524,0.452524,Northern,0,0,0,0,,Tropical,BN,Western Pacific Region,Asia,0.452524,78.854,79.609,14.1,11.1,8.98518,46,26.2,5349.65
+EUR,Bulgaria,Polar,6885868,6.885868,Northern,0,0,0,0,,Polar,BGR,European Region,Europe,6.687717,76.363,62.694,25,7.4,34.304073,45,13.81,655.21
+AFR,Burkina Faso,Tropical,22100683,22.100683,Northern,73808,3339.625296,94,4.253262218,0.127357468,Tropical,BFA,African Region,Africa,23.251485,31.877,84.159,5.6,2.1,4.766848,31,29.43,646.92
+AFR,Burundi,Tropical,12551213,12.551213,Southern,0,0,0,0,,Tropical,BDI,African Region,Africa,13.238559,14.417,527.532,5.4,6.5,4.815837,34,24.89,2306.82
+WPR,Cambodia,Tropical,16589023,16.589023,Northern,18983,1144.31091,46,2.772917971,0.242322078,Tropical,KHM,Western Pacific Region,Asia,16.944826,25.114,96.246,3.9,7.3,9.324315,26,29.2,2104.04
+AFR,Cameroon,Tropical,27198628,27.198628,Northern,57,2.095693945,0,0,0,Tropical,CMR,African Region,Africa,28.647293,58.733,60.879,11.4,5.5,5.0025544,37,24,1655.7
+AMR,Canada,Polar,38155012,38.155012,Northern,0,0,0,0,,Polar,CAN,Region of the Americas,North America,38.781291,81.752,4.322,29.4,7.7,29.576546,22,-0.97,695.24
+EUR,Canary Islands,Subtropical,,0,Northern,0,,0,,,Subtropical,IC,European Region,Africa,0,,,,,,,,
+AFR,Cape Verde,Tropical,587925,0.587925,Northern,25290,43015.69078,1,1.700897223,0.003954132,Tropical,CPV,African Region,Africa,0.598682,67.545,129.611,11.8,2.1,9.812975,44,24.54,182.37
+AMR,Cayman Islands,Tropical,68136,0.068136,Northern,8,117.4122344,0,0,0,Tropical,CYM,Region of the Americas,North America,0.06931,100,303.062,,13,11.374192,,,
+AFR,Central African Republic,Tropical,5457154,5.457154,Northern,207,37.93185972,0,0,0,Tropical,CAF,African Region,Africa,5.742315,43.12,8.271,7.5,5.8,4.298979,41,28.34,1237
+AFR,Chad,Tropical,17179740,17.17974,Northern,0,0,0,0,,Tropical,TCD,African Region,Africa,18.278568,24.063,15.342,6.1,5.8,4.052066,38,27.54,478.11
+SEAR,Chagos Archipelago,Tropical,,0,Southern,0,,0,,,Tropical,IO,South-East Asia Region,Africa,0,,,,,,,,
+AMR,Chile,Subtropical,19493184,19.493184,Southern,157,8.054097268,0,0,0,Subtropical,CHL,Region of the Americas,South America,19.62959,87.912,26.109,28,10.8,19.830235,36,13.91,850.6
+WPR,China,Subtropical,1425893465,1425.893465,Northern,23888,16.75300476,0,0,0,Subtropical,CHN,Western Pacific Region,Asia,1425.671352,63.56,148.186,6.2,10.6,20.715618,27,8.12,889.25
+SEAR,Christmas Island,Tropical,,0,Southern,0,,0,,,Tropical,CX,South-East Asia Region,Asia,0,,,,,,,,
+SEAR,Cocos Islands,Tropical,,0,Southern,0,,0,,,Tropical,CC,South-East Asia Region,Asia,0,,,,,,,,
+AMR,Colombia,Tropical,51516562,51.516562,Northern,320982,6230.656463,229,4.445172409,0.071343564,Tropical,COL,Region of the Americas,South America,52.085168,82.05,46.562,22.3,8.3,13.383401,31,19.56,3037.84
+EUR,Comoros,Tropical,852075,0.852075,Southern,0,0,0,0,,Tropical,KM,European Region,Africa,0.852075,29.864,456.952,7.8,11.7,7.695856,33,27.59,1329.86
+AFR,Congo,Tropical,5835806,5.835806,Southern,0,0,0,0,,Tropical,COG,African Region,Africa,6.106869,68.736,18.105,9.6,5.5,5.1859226,40,26.35,1283.17
+WPR,Cook Islands,Tropical,17003,0.017003,Southern,0,0,0,0,,Tropical,COK,Western Pacific Region,Oceania,0.017044,,59.258,,,20.698986,43,26.76,672.42
+AMR,Costa Rica,Tropical,5153957,5.153957,Northern,30389,5896.246321,7,1.358179744,0.023034651,Tropical,CRI,Region of the Americas,North America,5.212173,82.042,99.991,25.7,8.8,16.97777,38,22.11,9642.92
+EUR,Croatia,Subtropical,4060135,4.060135,Northern,0,0,0,0,,Subtropical,HRV,European Region,Europe,4.008617,58.219,69.701,24.4,4.8,36.16123,48,12.82,1355.65
+AMR,Cuba,Tropical,11256372,11.256372,Northern,985,87.50599216,0,0,0,Tropical,CUB,Region of the Americas,North America,11.194449,77.401,103.223,24.6,7.6,23.680435,40,26.61,1354.05
+AMR,Curacao,Tropical,190338,0.190338,Northern,262,1376.49865,0,0,0,Tropical,CUW,Region of the Americas,South America,0.192077,89.025,437.328,,11.7,23.775358,,28.59,576.11
+EUR,Cyprus,Subtropical,1244188,1.244188,Northern,0,0,0,0,,Subtropical,CYP,European Region,Europe,1.260138,66.911,145.56,21.8,8.6,20.555784,31,21.32,273.58
+EUR,Czech Republic,Polar,10510751,10.510751,Northern,0,0,0,0,,Polar,CZE,European Region,Europe,10.495295,74.377,140.017,26,7.1,32.199486,42,10.46,823.59
+EUR,Democratic Republic of the Congo,Tropical,102262808,102.262808,Northern,0,0,0,0,,Tropical,COD,European Region,Africa,102.262808,46.837,46.664,6.7,5.8,6.0347595,34,26.35,1283.17
+EUR,Denmark,Polar,5854240,5.85424,Northern,0,0,0,0,,Polar,DNK,European Region,Europe,5.910913,88.367,140.306,19.7,5.3,32.39204,36,9.15,1629.14
+EMR,Djibouti,Tropical,1136455,1.136455,Northern,0,0,0,0,,Tropical,DJI,Eastern Mediterranean Region,Africa,1.136455,78.38,49.739,13.5,7.4,7.209734,34,28.14,386.6
+AMR,Dominica,Tropical,72412,0.072412,Northern,0,0,0,0,,Tropical,DMA,Region of the Americas,North America,0.07304,71.7,88.681,27.9,11.7,18.441135,48,28.23,1019.82
+AMR,Dominican Republic,Tropical,11117873,11.117873,Northern,10251,922.0288809,12,1.079343144,0.11706175,Tropical,DOM,Region of the Americas,North America,11.332972,83.848,234.548,27.6,10.5,11.554975,49,26.72,1315.96
+AMR,Ecuador ,Tropical,17797737,17.797737,Southern,61329,3445.887531,74,4.157831976,0.120660699,Tropical,ECU,Region of the Americas,South America,18.190484,64.57,72.395,19.9,4.4,12.089916,27,17.96,2439.36
+EMR,Egypt,Subtropical,112716598,112.716598,Northern,0,0,0,0,,Subtropical,EGY,Eastern Mediterranean Region,Africa,112.716598,42.967,115.059,32,20.9,7.939243,38,22.5,9.08
+AMR,El Salvador,Tropical,6314167,6.314167,Northern,8552,1354.414604,9,1.425366165,0.105238541,Tropical,SLV,Region of the Americas,North America,6.364943,74.767,304.519,24.6,6.3,11.976953,33,24.55,3219.52
+EUR,Equatorial Guinea,Tropical,1634466,1.634466,Northern,0,0,0,0,,Tropical,GNQ,European Region,Africa,1.714671,74.01,65.866,8,5.5,6.15139,38,25.05,3668.31
+AFR,Eritrea,Tropical,3620312,3.620312,Northern,14679,4054.622916,0,0,0,Tropical,ERI,African Region,Africa,3.748901,42.625,28.647,5,6.5,7.2607136,24,31.43,311.77
+EUR,Estonia,Polar,1328701,1.328701,Northern,0,0,0,0,,Polar,EST,European Region,Europe,1.322765,69.609,31.454,21.2,6.5,33.10512,40,7.45,769.51
+AFR,Eswatini,Tropical,1210822,1.210822,Southern,0,0,0,0,,Tropical,SZ,African Region,Africa,1.210822,24.576,70.869,,4.6,6.667982,43,20.13,812.69
+AFR,Ethiopia,Tropical,120283026,120.283026,Northern,4016,33.38791959,0,0,0,Tropical,ETH,African Region,Africa,126.52706,22.661,128.692,4.5,5,5.518587,27,21.65,1622.92
+AMR,Falkland Islands,Polar,3791,0.003791,Southern,0,0,0,0,,Polar,FK,Region of the Americas,South America,0.003791,,0.286,,,16.414944,,6.21,606.26
+EUR,Faroe Islands,Polar,53270,0.05327,Northern,0,0,0,0,,Polar,FO,European Region,Europe,0.05327,42.779,39.504,,3.8,28.53487,,7.49,1392.73
+WPR,Fiji,Tropical,924610,0.92461,Southern,6238,6746.628308,0,0,0,Tropical,FJI,Western Pacific Region,Oceania,0.936375,58.229,50.583,30.2,17.7,9.571752,39,25.45,2745.03
+EUR,Finland,Polar,5535992,5.535992,Northern,0,0,0,0,,Polar,FIN,European Region,Europe,5.545475,85.681,18.524,22.2,6.1,38.313972,36,4.73,875.03
+EUR,France,Subtropical,64531444,64.531444,Northern,85,1.317187323,0,0,0,Subtropical,FRA,European Region,Europe,64.756584,81.509,120.496,21.6,5.3,35.311802,29,10.48,1185.69
+AMR,French Guiana,Tropical,297449,0.297449,Northern,16141,54264.76472,8,26.89536694,0.049563224,Tropical,GUF,Region of the Americas,South America,0.312155,,3.691,,,11.045797,,,
+WPR,French Polynesia,Subtropical,304032,0.304032,Southern,147,483.5017367,0,0,0,Subtropical,PYF,Western Pacific Region,Oceania,0.308872,62.17,76.308,,25.2,15.418376,,,
+EUR,French Southern and Antarctic Lands,Polar,,0,Southern,0,,0,,,Polar,TF,European Region,Africa,0,,,,,,,,
+AFR,Gabon,Tropical,2341179,2.341179,Southern,0,0,0,0,,Tropical,GAB,African Region,Africa,2.436566,90.735,9.643,15,5.5,6.81421,37,24.8,2102.86
+AFR,Gambia,Tropical,2639916,2.639916,Northern,0,0,0,0,,Tropical,GMB,African Region,Africa,2.773168,63.852,266.586,10.3,1.9,5.290152,38,28.68,946.67
+EUR,Georgia,Subtropical,3757980,3.75798,Northern,0,0,0,0,,Subtropical,GEO,European Region,Asia,3.728282,60.297,54.792,21.7,5.7,24.055786,45,19.47,1308.33
+EUR,Germany,Subtropical,83408554,83.408554,Northern,0,0,0,0,,Subtropical,DEU,European Region,Europe,83.294633,77.648,242.564,22.3,6.9,35.972492,30,10.16,821.92
+AFR,Ghana,Tropical,32833031,32.833031,Northern,1163,35.42164596,0,0,0,Tropical,GHA,African Region,Africa,34.121985,58.615,148.492,10.9,2.6,6.033767,34,28.11,1255.54
+EUR,Greece,Subtropical,10445365,10.445365,Northern,0,0,0,0,,Subtropical,GRC,European Region,Europe,10.341277,80.357,78.298,24.9,6.4,37.26443,31,13.99,747.47
+AMR,Greenland,Polar,56643,0.056643,Northern,0,0,0,0,,Polar,GL,Region of the Americas,North America,0.056643,87.727,0.136,,3.3,14.6698065,,-25.52,341.36
+AMR,Grenada,Tropical,124610,0.12461,Northern,798,6403.980419,0,0,0,Tropical,GRD,Region of the Americas,North America,0.126183,36.868,344.356,21.3,12.6,17.36025,47,28.75,964.6
+AMR,Grenadines,Tropical,,0,Northern,0,,0,,,Tropical,VC,Region of the Americas,North America,0,,,,,,,,
+AMR,Guadeloupe,Tropical,396051,0.396051,Northern,11025,27837.32398,0,0,0,Tropical,GLP,Region of the Americas,North America,0.395839,,231.275,,,38.11866,,28.44,952.29
+WPR,Guam,Tropical,172952,0.172952,Northern,0,0,0,0,,Tropical,GU,Western Pacific Region,Oceania,0.172952,95.091,307.775,,19.1,19.551712,,28.52,2090.31
+AMR,Guatemala,Tropical,17608483,17.608483,Northern,188585,10709.89477,188,10.67667215,0.099689795,Tropical,GTM,Region of the Americas,North America,18.092026,52.666,169.138,21.2,13.1,7.4997387,32,26.7,1725.09
+AFR,Guernsey,Polar,,0,Northern,0,,0,,,Polar,GIN,African Region,North America,0,,1000.266,,,32.965385,,,
+AFR,Guinea,Tropical,13531906,13.531906,Northern,2,0.147798839,0,0,0,Tropical,GNB,African Region,Africa,14.190612,37.668,58.626,7.7,2.1,6.2204595,41,25.25,2508.59
+AMR,Guinea-Bissau,Tropical,2060721,2.060721,Northern,0,0,0,0,,Tropical,GUY,Region of the Americas,Africa,2.150842,45.041,76.577,9.5,2.1,5.4543185,38,27.52,2305.45
+AMR,Guyana,Tropical,804567,0.804567,Northern,44028,54722.60234,8,9.943236548,0.018170255,Tropical,HTI,Region of the Americas,South America,0.813834,27.022,4.198,20.2,11.7,10.086637,40,28.29,1433.35
+AMR,Haiti,Tropical,11447569,11.447569,Northern,0,0,0,0,,Tropical,HT,Region of the Americas,North America,11.724763,58.82,422.119,22.7,8.9,7.2374034,43,27.38,1522.65
+EUR,Heard Island,Polar,,0,Northern,0,,0,,,Polar,VAT,European Region,Oceania,0,,,,,,,,
+AMR,Honduras,Tropical,10278345,10.278345,Northern,177209,17241.00524,160,15.56670845,0.090288868,Tropical,HND,Region of the Americas,North America,10.593798,59.6,97.593,21.4,5.1,6.633411,34,23.54,1854.62
+EUR,Hungary,Polar,9709786,9.709786,Northern,0,0,0,0,,Polar,HUN,European Region,Europe,10.156239,72.552,106.997,26.4,7,32.160297,48,13.9,468.68
+EUR,Iceland,Polar,370335,0.370335,Northern,0,0,0,0,,Polar,ISL,European Region,Europe,0.375318,93.992,3.866,21.9,5.5,23.02852,28,-3.46,986.57
+SEAR,India,Subtropical,1407563842,1407.563842,Northern,215066,152.7930695,182,0.129301418,0.084625185,Subtropical,IND,South-East Asia Region,Asia,1428.627663,35.872,483.679,3.9,9.6,10.173086,31,27.12,1819.55
+WPR,Indonesia,Tropical,277534122,277.534122,Northern,0,0,0,0,,Tropical,IDN,Western Pacific Region,Asia,277.534122,57.934,147.148,6.9,10.6,10.362277,40,23.13,5950.79
+EMR,Iran,Subtropical,89172767,89.172767,Northern,0,0,0,0,,Subtropical,IRN,Eastern Mediterranean Region,Asia,89.172767,76.807,55.631,25.8,9.1,11.431467,26,19.5,146.35
+EMR,Iraq,Subtropical,45504560,45.50456,Northern,0,0,0,0,,Subtropical,IRQ,Eastern Mediterranean Region,Asia,45.50456,71.354,103.827,30.4,10.7,5.7074594,48,24.86,138.37
+EUR,Ireland,Subtropical,4986526,4.986526,Northern,0,0,0,0,,Subtropical,IRL,European Region,Europe,5.056935,64.183,76.011,25.3,3,23.725014,32,9.47,1070.46
+EUR,Isle of Man,Subtropical,84710,0.08471,Northern,0,0,0,0,,Subtropical,IM,European Region,Europe,0.08471,53.271,147.142,,6.3,36.11032,,11.33,1192.72
+EUR,Israel,Subtropical,8900059,8.900059,Northern,0,0,0,0,,Subtropical,ISR,European Region,Asia,9.17452,92.763,427.682,26.1,8.5,20.655157,29,21.19,160.98
+EUR,Italy,Subtropical,59240329,59.240329,Northern,213,3.595523583,0,0,0,Subtropical,ITA,European Region,Europe,58.870762,71.657,201.029,19.9,6.4,38.002815,34,17.34,696.83
+AFR,Ivory Coast,Tropical,27478249,27.478249,Northern,6134,223.2311091,5,0.181962104,0.081512879,Tropical,CIV,African Region,Africa,28.873034,52.661,98.005,10.3,2.1,4.5719395,37,26.81,1444.96
+AMR,Jamaica,Tropical,2827695,2.827695,Northern,2034,719.3137874,1,0.35364493,0.049164208,Tropical,JAM,Region of the Americas,North America,2.825544,57.008,262.215,24.7,11.1,10.768036,46,27.65,1407.43
+WPR,Japan,Polar,123294513,123.294513,Northern,0,0,0,0,,Polar,JPN,Western Pacific Region,Asia,123.294513,91.955,330.05,4.3,6.6,50.12053,31,9.94,2383.89
+AMR,Jersey,Subtropical,,0,Northern,0,,0,,,Subtropical,JE,Region of the Americas,North America,0,,893.746,,,27.868473,,13.03,968.41
+EMR,Jordan,Subtropical,11337052,11.337052,Northern,0,0,0,0,,Subtropical,JOR,Eastern Mediterranean Region,Asia,11.337052,91.827,128.829,35.5,15.4,6.7059846,38,18.95,83.16
+EUR,Kazakhstan,Polar,19196465,19.196465,Northern,0,0,0,0,,Polar,KAZ,European Region,Asia,19.606633,57.99,7.531,21,6.6,13.364349,42,5.96,229.71
+AFR,Kenya,Tropical,53005614,53.005614,Northern,4443,83.82130995,0,0,0,Tropical,KEN,African Region,Africa,55.100586,29.002,95.292,7.1,4,4.875848,33,25.87,761.34
+WPR,Kiribati,Tropical,128874,0.128874,Southern,0,0,0,0,,Tropical,KIR,Western Pacific Region,Oceania,0.133515,57.058,182.549,,22.1,6.761156,42,28.85,1555.85
+EUR,Kosovo,Subtropical,,0,Northern,0,,0,,,Subtropical,XK,European Region,Europe,0,,155.895,,,13.964014,,12.9,2.39
+EMR,Kuwait,Subtropical,4310108,4.310108,Northern,0,0,0,0,,Subtropical,KWT,Eastern Mediterranean Region,Asia,4.310108,100,271.567,37.9,24.9,3.763919,41,27.3,70.88
+EUR,Kyrgyzstan,Subtropical,6527743,6.527743,Northern,0,0,0,0,,Subtropical,KGZ,European Region,Asia,6.735347,37.461,36.88,16.6,6.6,8.76728,41,0.98,488.95
+WPR,Laos,Tropical,7425057,7.425057,Northern,19486,2624.356958,11,1.481470109,0.056450785,Tropical,LAO,Western Pacific Region,Asia,7.633779,37.592,33.211,5.3,6.2,6.986456,29,24.6,901.84
+EUR,Latvia,Subtropical,1873919,1.873919,Northern,0,0,0,0,,Subtropical,LVA,European Region,Europe,1.830211,68.54,30.25,23.6,,33.8569,44,8.42,756.57
+EMR,Lebanon,Subtropical,5353930,5.35393,Northern,0,0,0,0,,Subtropical,LBN,Eastern Mediterranean Region,Asia,5.35393,89.262,564.369,32,8,15.478027,38,19.97,503.66
+EUR,Lesotho,Subtropical,2330318,2.330318,Southern,0,0,0,0,,Subtropical,LS,European Region,Africa,2.330318,29.943,76.135,16.6,4.6,6.246217,40,11.45,622.11
+AFR,Liberia,Tropical,5193416,5.193416,Northern,45,8.664817145,0,0,0,Tropical,LBR,African Region,Africa,5.418377,53.065,57.029,9.9,2.1,5.7780304,39,26.09,1899.26
+EMR,Libya,Subtropical,6888388,6.888388,Northern,0,0,0,0,,Subtropical,LBY,Eastern Mediterranean Region,Africa,6.888388,81.302,4.358,32.5,8.7,7.2624836,43,23.49,20.81
+EUR,Liechtenstein,Polar,39039,0.039039,Northern,0,0,0,0,,Polar,LIE,European Region,Europe,0.039584,14.538,,,6.1,30.794434,,6.02,1849.35
+EUR,Lithuania,Subtropical,2786651,2.786651,Northern,0,0,0,0,,Subtropical,LTU,European Region,Europe,2.718352,68.465,45.577,26.3,5.8,30.410069,48,9.02,2.01
+EUR,Luxembourg,Subtropical,639321,0.639321,Northern,0,0,0,0,,Subtropical,LUX,European Region,Europe,0.654768,91.881,256.795,22.6,5.9,21.846792,31,9.73,1243.62
+AFR,Madagascar,Tropical,28915653,28.915653,Southern,0,0,0,0,,Tropical,MDG,African Region,Africa,30.325732,39.882,53.62,5.3,4.6,5.841431,37,18.89,4.35
+EUR,Madeira Islands,Subtropical,,0,Northern,0,,0,,,Subtropical,PT,European Region,Africa,0,,,,,,,,
+EUR,Malawi,Tropical,19889742,19.889742,Northern,0,0,0,0,,Tropical,MWI,European Region,Africa,20.931751,17.98,223.205,5.8,7.3,4.6197143,30,26.9,1351.45
+WPR,Malaysia,Tropical,33573874,33.573874,Northern,122423,3646.376942,67,1.995599316,0.054728278,Tropical,MYS,Western Pacific Region,Asia,34.308525,78.214,106.913,15.6,19,10.596843,41,25.38,3076.81
+SEAR,Maldives,Tropical,521457,0.521457,Northern,3294,6316.915872,2,3.83540733,0.060716454,Tropical,MDV,South-East Asia Region,Asia,0.521021,41.536,1753.313,8.6,9.2,5.7477074,34,28.66,1899.15
+AFR,Mali,Tropical,21904983,21.904983,Northern,9556,436.2477707,12,0.547820558,0.125575555,Tropical,MLI,African Region,Africa,23.293698,45.437,19.48,8.6,2.1,4.7039475,35,28.63,229.7
+EUR,Malta,Subtropical,526748,0.526748,Northern,0,0,0,0,,Subtropical,MLT,European Region,Africa,0.535064,94.875,1691.924,28.9,8,29.47845,30,21.02,270.63
+WPR,Marshall Islands,Tropical,42050,0.04205,Northern,0,0,0,0,,Tropical,MHL,Western Pacific Region,Oceania,0.041996,78.52,215.706,,23,7.222856,32,28.71,7.8
+AMR,Martinique,Tropical,368796,0.368796,Northern,7371,19986.65929,0,0,0,Tropical,MTQ,Region of the Americas,North America,0.366981,,326.417,,,40.15415,,,
+AFR,Mauritania,Subtropical,4614974,4.614974,Northern,3640,788.736838,0,0,0,Subtropical,MRT,African Region,Africa,4.862989,56.923,4.873,12.7,2.1,5.981058,38,27.4,32.56
+AFR,Mauritius,Tropical,1298915,1.298915,Southern,9917,7634.833688,5,3.849366587,0.050418473,Tropical,MUS,African Region,Africa,1.300557,40.81,627.383,10.8,22.6,17.978416,33,25.09,827.78
+EUR,Mayotte,Tropical,316014,0.316014,Southern,64,202.522673,0,0,0,Tropical,MYT,European Region,Africa,0.335995,,842.708,,,4.9611335,,,
+AMR,Mexico,Subtropical,126705138,126.705138,Northern,558846,4410.602512,478,3.772538411,0.085533403,Subtropical,MEX,Region of the Americas,North America,128.455567,81.3,66.219,28.9,16.9,11.898048,32,18.79,375.83
+WPR,Micronesia,Tropical,113131,0.113131,Northern,43,380.0903378,0,0,0,Tropical,FSM,Western Pacific Region,Oceania,0.544321,23.217,160.901,,15.6,9.2319565,33,,
+EUR,Moldova,Polar,3061506,3.061506,Northern,0,0,0,0,,Polar,MDA,European Region,Europe,3.435931,43.173,93.275,18.9,5.6,24.235638,48,12.41,638.44
+EUR,Monaco,Subtropical,36686,0.036686,Northern,0,0,0,0,,Subtropical,MCO,European Region,Europe,0.036297,100,26145.303,,6.2,70.11033,,,
+WPR,Mongolia,Polar,3447157,3.447157,Northern,0,0,0,0,,Polar,MN,Western Pacific Region,Asia,3.447157,68.93,2.204,20.6,6.9,7.7804265,43,1.85,417.12
+EUR,Montenegro,Subtropical,627859,0.627859,Northern,0,0,0,0,,Subtropical,MNE,European Region,Europe,0.626485,68.164,45.87,23.3,9.1,27.187729,45,11.78,1540.89
+AMR,Montserrat,Tropical,4417,0.004417,Northern,3,679.1940231,0,0,0,Tropical,MSR,Region of the Americas,North America,0.004386,,42.917,,,30,,,
+EMR,Morocco,Subtropical,37840044,37.840044,Northern,0,0,0,0,,Subtropical,MAR,Eastern Mediterranean Region,Africa,37.840044,64.596,84.5,26.1,9.1,11.831672,35,20.17,253.53
+AFR,Mozambique,Tropical,32077072,32.077072,Southern,0,0,0,0,,Tropical,MOZ,African Region,Africa,33.897354,38.187,42.772,7.2,3.3,5.2719865,39,26.22,997.16
+SEAR,Myanmar,Tropical,53798084,53.798084,Northern,6131,113.9631664,13,0.241644294,0.212037188,Tropical,MMR,South-East Asia Region,Asia,54.577997,31.771,82.863,5.8,7.1,10.364796,38,27.63,482.69
+AFR,Namibia,Subtropical,2530151,2.530151,Southern,0,0,0,0,,Subtropical,NAM,African Region,Africa,2.604172,53.956,3.599,17.2,6.7,6.0365663,44,23,239.82
+WPR,Nauru,Tropical,12780,0.01278,Southern,0,0,0,0,,Tropical,NR,Western Pacific Region,Oceania,0.01278,100,593.75,,23.4,4.6029267,42,28.78,3.39
+SEAR,Nepal,Subtropical,30034989,30.034989,Northern,41865,1393.874324,13,0.432828525,0.031052192,Subtropical,NPL,South-East Asia Region,Asia,30.89659,21.451,201.756,4.1,8.7,9.796389,36,5.75,1936.52
+EUR,Netherlands,Subtropical,17501696,17.501696,Northern,0,0,0,0,,Subtropical,NLD,European Region,Europe,17.618299,92.886,537.333,20.4,4.5,31.145607,31,11.5,1020.09
+AMR,Nevis,Tropical,,0,Northern,0,,0,,,Tropical,KN,Region of the Americas,North America,0,,,,,,,,
+WPR,New Caledonia,Subtropical,287800,0.2878,Southern,16,55.59416261,0,0,0,Subtropical,NCL,Western Pacific Region,Oceania,0.292991,72.325,15.857,,23.4,16.455742,,24.67,1152.17
+WPR,New Zealand,Subtropical,5228100,5.2281,Northern,0,0,0,0,,Subtropical,NZL,Western Pacific Region,Oceania,5.2281,86.884,19.527,30.8,6.2,25.889856,31,7.43,1551.12
+AMR,Nicaragua,Tropical,6850540,6.85054,Northern,92022,13432.80968,1,0.145973894,0.001086697,Tropical,NIC,Region of the Americas,North America,7.04631,59.556,56.703,23.7,9.3,8.222568,36,26.7,2112.21
+AFR,Niger,Subtropical,25252722,25.252722,Northern,58,2.296782105,12,0.475196298,20.68965517,Subtropical,NER,African Region,Africa,27.202843,16.894,20.652,5.5,5.2,5.0948744,42,25.98,230.18
+EUR,Nigeria,Tropical,223804632,223.804632,Northern,0,0,0,0,,Tropical,NGA,European Region,Africa,223.804632,53.521,250.209,8.9,3.6,5.4580126,36,25.53,1641.27
+WPR,Niue,Tropical,1937,0.001937,Southern,0,0,0,0,,Tropical,NIU,Western Pacific Region,Oceania,0.001935,,6.99,,,26.612904,40,26.34,1796.79
+WPR,Norfolk Island,Subtropical,,0,Southern,0,,0,,,Subtropical,NF,Western Pacific Region,Oceania,0,,,,,,,,
+SEAR,North Korea,Polar,26160821,26.160821,Northern,0,0,0,0,,Polar,KP,South-East Asia Region,Asia,26.160821,62.916,219.402,,8.6,17.433237,27,6.23,1429.98
+EUR,North Macedonia,Subtropical,2103330,2.10333,Northern,0,0,0,0,,Subtropical,MKD,European Region,Europe,2.085679,59.118,73.528,,6.1,26.74321,45,14.06,655.19
+WPR,Northern Mariana Islands,Tropical,49481,0.049481,Northern,1,20.20977749,0,0,0,Tropical,MNP,Western Pacific Region,Oceania,0.049796,91.983,,52.9,23.4,12.735773,,28.36,1261.81
+EUR,Norway,Polar,5403021,5.403021,Northern,0,0,0,0,,Polar,NOR,European Region,Europe,5.47436,83.664,18.142,23.1,3.6,28.497911,31,5.79,1679.42
+EMR,Oman,Subtropical,4644384,4.644384,Northern,0,0,0,0,,Subtropical,OMN,Eastern Mediterranean Region,Asia,4.644384,87.75,16.314,27,13.8,3.6882658,46,29.76,99.04
+EMR,Pakistan,Subtropical,231402117,231.402117,Northern,57789,249.7341025,0,0,0,Subtropical,PAK,Eastern Mediterranean Region,Asia,240.485658,37.731,321.067,8.6,30.8,7.1405497,43,21.48,515.35
+WPR,Palau,Tropical,18024,0.018024,Northern,4,221.9263205,0,0,0,Tropical,PLW,Western Pacific Region,Oceania,0.018058,81.956,38.538,,17,15.421456,44,28.7,2870.16
+EMR,Palestine,Subtropical,5371230,5.37123,Northern,0,0,0,0,,Subtropical,PSE,Eastern Mediterranean Region,Asia,5.37123,77.291,898.538,,9.2,6.5751743,,20.58,539.39
+AMR,Panama,Tropical,4351267,4.351267,Northern,37231,8556.358412,52,11.95054222,0.139668556,Tropical,PAN,Region of the Americas,North America,4.468087,69.141,60.11,22.7,8.2,13.777615,36,27.52,2787.37
+WPR,Papua New Guinea,Tropical,10329931,10.329931,Southern,0,0,0,0,,Tropical,PG,Western Pacific Region,Oceania,10.329931,13.582,22.942,21.3,16.7,5.3271713,28,20.82,2220.08
+AMR,Paraguay,Tropical,6703799,6.703799,Southern,295785,44121.99709,129,19.24282038,0.043612759,Tropical,PRY,Region of the Americas,South America,6.861524,62.818,16.922,20.3,7.5,9.817227,56,26.43,1061.86
+AMR,Peru,Tropical,33715471,33.715471,Southern,280726,8326.325917,259,7.681933318,0.092260781,Tropical,PER,Region of the Americas,South America,34.352719,78.708,26.44,19.47,4.8,13.481281,21,11.18,570.54
+WPR,Philippines,Tropical,117337368,117.337368,Northern,0,0,0,0,,Tropical,PHL,Western Pacific Region,Asia,117.337368,47.977,382.971,6.4,7.1,7.9569736,34,28.24,2675.56
+WPR,Pitcairn Islands,Tropical,,0,Southern,0,,0,,,Tropical,PCN,Western Pacific Region,Oceania,0,,,,,,,,
+EUR,Poland,Subtropical,38307726,38.307726,Northern,0,0,0,0,,Subtropical,POL,European Region,Europe,41.026067,60.134,126.596,23.1,6.8,29.908493,49,10.88,618.24
+EUR,Portugal,Subtropical,10290103,10.290103,Northern,0,0,0,0,,Subtropical,PRT,European Region,Europe,10.247605,67.381,113.396,20.8,9.1,38.23013,32,16.21,734.57
+AMR,Puerto Rico,Tropical,3256028,3.256028,Northern,5708,1753.056178,7,2.149858662,0.122634898,Tropical,PRI,Region of the Americas,North America,3.260314,93.61,372.989,,13.3,37.90025,,26.54,1473.65
+EMR,Qatar,Subtropical,2716391,2.716391,Northern,0,0,0,0,,Subtropical,QAT,Eastern Mediterranean Region,Asia,2.716391,99.318,257.128,35.1,19.5,1.8880497,41,28.63,91.85
+EUR,Reunion,Tropical,966129,0.966129,Southern,1227,1270.016737,4,4.140233861,0.32599837,Tropical,REU,European Region,Africa,0.981796,,349.953,,,23.263546,,22.1,1022.52
+EUR,Romania,Polar,19328560,19.32856,Southern,0,0,0,0,,Polar,ROU,European Region,Europe,19.892812,54.489,83.096,22.5,6.5,30.679722,48,11.4,604.07
+EUR,Russia,Polar,145102755,145.102755,Northern,0,0,0,0,,Polar,RUS,European Region,Europe,144.444359,75.126,8.882,23.1,5.6,25.19117,44,-11.69,765.39
+AFR,Rwanda,Tropical,13461888,13.461888,Southern,0,0,0,0,,Tropical,RWA,African Region,Africa,14.094683,17.721,576.393,5.8,6.5,6.5387173,30,20.6,1396.21
+AMR,Saba,Tropical,,0,Northern,0,,0,,,Tropical,NL,Region of the Americas,North America,0,,,,,,,,
+AMR,Saint Barthelemy,Tropical,10861,0.010861,Northern,173,15928.5517,0,0,0,Tropical,BLM,Region of the Americas,North America,0.010994,,503.864,,,27.632336,,,
+AFR,Saint Helena,Subtropical,5314,0.005314,Southern,0,0,0,0,,Subtropical,SH,African Region,Africa,0.005314,,13.56,,,43.997486,,,
+AMR,Saint Kitts,Tropical,47606,0.047606,Northern,253,5314.456161,0,0,0,Tropical,KNA,Region of the Americas,North America,0.047755,30.991,179.838,22.9,16.1,15.086155,45,28.35,908.5
+AMR,Saint Lucia,Tropical,179651,0.179651,Northern,432,2404.662373,0,0,0,Tropical,LCA,Region of the Americas,North America,0.180251,19.05,291.046,19.7,11.7,12.769281,40,28.82,586.35
+AMR,Saint Martin,Tropical,31948,0.031948,Northern,624,19531.73908,0,0,0,Tropical,MAF,Region of the Americas,North America,0.032077,,519.142,,,27.882463,,,
+AMR,Saint Pierre and Miquelon,Subtropical,5840,0.00584,Northern,0,0,0,0,,Subtropical,PM,Region of the Americas,North America,0.00584,,24.702,,,30.146471,,,
+AMR,Saint Vincent,Tropical,104332,0.104332,Northern,967,9268.489054,0,0,0,Tropical,VCT,Region of the Americas,North America,0.103698,53.875,259.801,23.7,8,17.313631,39,28.63,620.68
+WPR,Samoa,Tropical,218764,0.218764,Southern,473,2162.147337,0,0,0,Tropical,WSM,Western Pacific Region,Oceania,0.225681,17.616,76.559,,9.2,10.269359,38,28.2,2051.98
+EUR,San Marino,Polar,33745,0.033745,Northern,0,0,0,0,,Polar,SMR,European Region,Europe,0.033642,97.732,552.992,,7.4,33.05039,,16.25,2.16
+AFR,Sao Tome and Principe,Tropical,223107,0.223107,Northern,32,143.4289377,0,0,0,Tropical,STP,African Region,Africa,0.231856,75.755,240.491,12.4,5.5,6.688728,45,16.25,789.76
+EMR,Saudi Arabia,Subtropical,35950396,35.950396,Northern,8193,227.8973506,0,0,0,Subtropical,SAU,Eastern Mediterranean Region,Asia,36.947025,84.729,15.474,35.4,18.7,3.856921,34,25.66,116.36
+AFR,Senegal,Tropical,16876720,16.87672,Northern,1208,71.57788954,9,0.533278978,0.745033113,Tropical,SEN,African Region,Africa,17.763163,49.086,93.895,8.8,3.1,6.213864,41,30.16,522.41
+EUR,Serbia,Subtropical,7296769,7.296769,Northern,0,0,0,0,,Subtropical,SRB,European Region,Europe,7.149077,56.873,88.266,21.5,9.1,35.26065,46,13.81,717.35
+AFR,Seychelles,Tropical,106471,0.106471,Southern,2583,24260.12717,0,0,0,Tropical,SYC,African Region,Africa,0.10766,58.396,279.979,14,8.5,11.645998,44,27.96,1934.74
+SEAR,Siachen Glacier,Polar,,0,Northern,0,,0,,,Polar,,South-East Asia Region,Asia,0,,,,,,,,
+AFR,Sierra Leone,Tropical,8420641,8.420641,Northern,1,0.118755805,0,0,0,Tropical,SLE,African Region,Africa,8.791092,43.831,117.933,8.7,2.1,5.503796,41,26.54,2977.04
+WPR,Singapore,Tropical,5941060,5.94106,Northern,13655,2298.411395,0,0,0,Tropical,SGP,Western Pacific Region,Asia,6.014723,100,8475.973,6.1,11.6,17.407629,32,27.83,5091.99
+AMR,Sint Eustatius,Tropical,,0,Northern,0,,0,,,Tropical,NL,Region of the Americas,North America,0,,,,,,,,
+AMR,Sint Maarten,Subtropical,44042,0.044042,Northern,144,3269.606285,0,0,0,Subtropical,SXM,Region of the Americas,North America,0.044222,100,1257.324,,,18.96512,,,
+EUR,Slovakia,Subtropical,5447622,5.447622,Northern,0,0,0,0,,Subtropical,SVK,European Region,Europe,5.795199,53.909,112.538,20.5,5.8,27.32183,43,10.04,1.97
+EUR,Slovenia,Subtropical,2119410,2.11941,Northern,0,0,0,0,,Subtropical,SVN,European Region,Europe,2.119675,55.751,105.194,20.2,5.8,33.431168,45,11.28,1346.3
+WPR,Solomon Islands,Tropical,707851,0.707851,Southern,125,176.5908362,0,0,0,Tropical,SLB,Western Pacific Region,Oceania,0.740424,25.584,27.782,,19.8,6.1454644,30,26.86,2909.75
+EMR,Somalia,Tropical,18143378,18.143378,Northern,0,0,0,0,,Tropical,SOM,Eastern Mediterranean Region,Africa,18.143378,47.324,29.264,8.3,6.5,5.0525584,36,28.38,509.51
+EUR,South Africa,Subtropical,60414495,60.414495,Southern,0,0,0,0,,Subtropical,ZAF,European Region,Africa,60.414495,68.335,51.779,28.3,10.8,9.6532955,44,18.81,405.91
+AMR,South Georgia,Polar,,0,Southern,0,,0,,,Polar,GS,Region of the Americas,Antarctica,0,,,,,,,,
+WPR,South Korea,Subtropical,51784059,51.784059,Northern,0,0,0,0,,Subtropical,KOR,Western Pacific Region,Asia,51.784059,81.427,523.016,4.7,6.8,25.912172,27,13.09,1471.95
+AMR,South Sandwich Islands,Polar,,0,Southern,0,,0,,,Polar,GS,Region of the Americas,Antarctica,0,,,,,,,,
+AFR,South Sudan,Tropical,10748272,10.748272,Northern,0,0,0,0,,Tropical,SSD,African Region,Africa,11.088796,20.846,20.355,8.6,6.5,5.0881314,34,29.23,1153.82
+EUR,Spain,Subtropical,47486935,47.486935,Northern,10,0.210584238,0,0,0,Subtropical,ESP,European Region,Europe,47.519628,81.304,95.374,23.8,10.3,31.20693,27,12.14,587.5
+SEAR,Sri Lanka,Tropical,21773441,21.773441,Northern,33236,1526.44683,0,0,0,Tropical,LKA,South-East Asia Region,Asia,21.893579,19.026,366.344,5.2,11.3,17.809431,36,25.82,1603.53
+EMR,Sudan,Subtropical,45657202,45.657202,Northern,10671,233.7199726,15,0.328535244,0.140567894,Subtropical,SDN,Eastern Mediterranean Region,Africa,48.109006,35.956,28.352,8.6,18.9,5.7204413,41,26.63,286.09
+AMR,Suriname,Tropical,612985,0.612985,Northern,95,154.9793225,3,4.894083868,3.157894737,Tropical,SUR,Region of the Americas,South America,0.623236,66.307,4.031,26.4,12.7,11.466745,43,26.77,5.38
+AFR,Swaziland,Subtropical,,0,Southern,0,,0,,,Subtropical,SZ,African Region,Africa,0,,,16.5,,,,,
+EUR,Sweden,Polar,10467097,10.467097,Northern,0,0,0,0,,Polar,SWE,European Region,Europe,10.612086,,25.903,20.6,5,32.96824,30,1.25,991.4
+EUR,Switzerland,Subtropical,8691406,8.691406,Northern,0,0,0,0,,Subtropical,CHE,European Region,Europe,8.796669,74.092,221.808,15.6,4.6,29.963114,22,9.09,4.56
+EMR,Syria,Subtropical,23227014,23.227014,Northern,0,0,0,0,,Subtropical,SYR,Eastern Mediterranean Region,Asia,23.227014,56.769,128.434,,14.9,7.2126393,41,18.75,245.5
+WPR,Taiwan,Subtropical,23923276,23.923276,Northern,0,0,0,0,,Subtropical,TWN,Western Pacific Region,Asia,23.923276,,658.49,,,26.247805,,,
+EUR,Tajikistan,Subtropical,9750064,9.750064,Northern,0,0,0,0,,Subtropical,TJK,European Region,Asia,10.143543,27.968,72.605,14.2,6.6,6.099094,47,-0.62,587.5
+EUR,Tanzania,Tropical,63588334,63.588334,Southern,34,0.534689272,0,0,0,Tropical,TZA,European Region,Africa,67.438106,36.682,75.206,8.4,12.3,5.608926,33,22.83,1025.78
+SEAR,Thailand,Subtropical,71601103,71.601103,Northern,104681,1462.002617,87,1.215065081,0.083109638,Subtropical,THA,South-East Asia Region,Asia,71.801279,52.889,140.348,10,9.7,20.943678,29,27.15,3.85
+SEAR,Timor-Leste,Tropical,1360596,1.360596,Southern,0,0,0,0,,Tropical,TL,South-East Asia Region,Asia,1.360596,,,3.8,,,35,23.48,1334.48
+AMR,Tobago,Subtropical,1534937,1.534937,Northern,0,0,0,0,,Subtropical,TT,Region of the Americas,South America,1.534937,,,,,,,,
+AFR,Togo,Tropical,8644829,8.644829,Northern,0,0,0,0,,Tropical,TGO,African Region,Africa,9.053799,43.921,171.067,8.4,2.1,5.555062,36,26.24,1273.66
+WPR,Tokelau,Tropical,1849,0.001849,Southern,4,2163.331531,0,0,0,Tropical,TKL,Western Pacific Region,Oceania,0.001849,,199.792,,,12.073325,,,
+WPR,Tonga,Tropical,106017,0.106017,Southern,14,132.0542932,0,0,0,Tropical,TON,Western Pacific Region,Oceania,0.107773,23.125,160.919,,15,11.436135,43,25.22,1691.25
+AMR,Trinidad,Tropical,1525663,1.525663,Northern,2004,1313.527299,19,12.45360214,0.948103792,Tropical,TTO,Region of the Americas,North America,1.534937,53.34,292.969,18.6,12.7,16.90432,42,27.43,1951.42
+EMR,Tunisia,Subtropical,12458223,12.458223,Southern,0,0,0,0,,Subtropical,TN,Eastern Mediterranean Region,Africa,12.458223,70.214,78.495,26.9,9.6,13.803305,35,22.04,106.41
+EUR,Turkey,Subtropical,84775404,84.775404,Northern,0,0,0,0,,Subtropical,TUR,European Region,Asia,85.816199,77.022,113.397,32.1,14.5,14.669032,33,12.2,459.34
+EUR,Turkmenistan,Subtropical,6341855,6.341855,Northern,0,0,0,0,,Subtropical,TKM,European Region,Asia,6.5161,53.494,15.671,,6.7,6.6692004,39,16.52,115.93
+AMR,Turks and Caicos Islands,Tropical,45114,0.045114,Northern,117,2593.429977,0,0,0,Tropical,TCA,Region of the Americas,North America,0.046062,94.047,48.629,,,14.966451,,,
+WPR,Tuvalu,Tropical,11204,0.011204,Southern,1,89.25383792,0,0,0,Tropical,TUV,Western Pacific Region,Oceania,0.011396,65.527,327.183,,20.3,10.399335,50,29.2,2847.33
+AFR,Uganda,Tropical,45853778,45.853778,Northern,0,0,0,0,,Tropical,UGA,African Region,Africa,48.582334,26.159,243.518,5.3,4.6,3.9850087,33,24.69,3.3
+EUR,UK,Subtropical,67281039,67.281039,Northern,0,0,0,0,,Subtropical,GBR,European Region,Europe,67.736802,84.398,282.948,27.8,6.3,30.326279,26,8.98,1051.97
+EUR,Ukraine,Polar,43531422,43.531422,Northern,0,0,0,0,,Polar,UKR,European Region,Europe,36.744634,69.919,65.133,24.1,5.6,27.596714,43,10.7,594.72
+EMR,United Arab Emirates,Subtropical,9516871,9.516871,Northern,0,0,0,0,,Subtropical,ARE,Eastern Mediterranean Region,Asia,9.516871,87.543,149.838,31.7,16.4,2.0686865,41,29.4,194.36
+AMR,United States Virgin Islands,Tropical,100091,0.100091,Northern,0,0,0,0,,Tropical,VIR,Region of the Americas,North America,,,,,,,,,
+AMR,Uruguay,Subtropical,3426260,3.42626,Southern,701,204.5962653,2,0.583726863,0.285306705,Subtropical,URY,Region of the Americas,South America,3.423108,95.688,19.562,27.9,9,24.020798,42,18.26,751.06
+AMR,USA,Subtropical,336997624,336.997624,Northern,3071,9.112823893,0,0,0,Subtropical,USA,Region of the Americas,North America,339.996563,83.084,37.548,36.2,12.4,26.799246,32,-10.03,641.18
+EUR,Uzbekistan,Subtropical,34081449,34.081449,Northern,0,0,0,0,,Subtropical,UZB,European Region,Asia,35.163944,50.466,83.809,16.6,7,8.977121,46,14.25,211.66
+WPR,Vanuatu,Tropical,319137,0.319137,Southern,138,432.4161724,0,0,0,Tropical,VUT,Western Pacific Region,Oceania,0.334506,25.816,26.285,,15.6,7.3786154,40,26.7,5.76
+AMR,Venezuela,Tropical,28199867,28.199867,Northern,0,0,0,0,,Tropical,VEN,Region of the Americas,South America,28.838499,88.378,30.881,25.6,9.6,14.46761,39,27.15,2089.96
+WPR,Vietnam,Tropical,97468029,97.468029,Northern,103078,1057.557037,26,0.266754137,0.025223617,Tropical,VNM,Western Pacific Region,Asia,98.85895,38.766,320.196,2.1,6.1,12.710798,30,26.75,2728.82
+AMR,Virgin Islands,Tropical,98750,0.09875,Northern,185,1873.417722,0,0,0,Tropical,VI,Region of the Americas,North America,0.09875,,81.218,,,,,,
+WPR,Wallis and Futuna,Tropical,11627,0.011627,Southern,78,6708.523265,0,0,0,Tropical,WLF,Western Pacific Region,Oceania,0.011502,,2.179,,,21.76215,,,
+AFR,Western Sahara,Tropical,587259,0.587259,Northern,0,0,0,0,,Tropical,EH,African Region,Africa,0.587259,,62.052,,,9.015337,,,
+EMR,Yemen,Subtropical,34449825,34.449825,Southern,0,0,0,0,,Subtropical,YE,Eastern Mediterranean Region,Asia,34.449825,39.188,74.608,17.1,5.4,4.4565034,29,28.08,61.74
+AFR,Zambia,Tropical,19473125,19.473125,Southern,0,0,0,0,,Tropical,ZMB,African Region,Africa,20.569737,45.761,27.878,,11.9,3.381735,32,22.01,2.48
+AFR,Zimbabwe,Tropical,15993524,15.993524,Southern,0,0,0,0,,Tropical,ZWE,African Region,Africa,16.665409,32.395,42.241,15.5,2.1,6.5704026,42,21.77,440.78
