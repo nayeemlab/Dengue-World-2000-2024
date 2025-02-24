@@ -131,7 +131,7 @@ worldDeng <- ggplot(data = worldSubset, mapping = aes(x = long, y = lat, group =
   coord_fixed(1.3) +
   geom_polygon(aes(fill = DC)) +
   scale_fill_distiller(palette ="Greens", direction = 1) + # or direction=1
-  ggtitle("") + labs(fill = "Dengue Cases \n(log10)") +
+  ggtitle("Global dengue cases and deaths per million population by country, 2024") + labs(fill = "Dengue Cases \n(log10)") +
   plain
 x <- plot(worldDeng)
 x
@@ -194,7 +194,7 @@ y
 
 
 library(gridExtra)
-tiff("Dengue2024Map.tiff", units="in", width=6, height=6, res=300)
+tiff("Dengue2024Map.tiff", units="in", width=8, height=6, res=300)
 library(cowplot)
 gridExtra::grid.arrange(plot_grid(x, y, labels = "AUTO", ncol = 1, nrow = 2))
 dev.off()
@@ -266,7 +266,7 @@ p3 <- ggplot(charts.data, aes(x = Months, y = Value, color = Hemisphere)) +
                               "Mar", "Apr", "May", 
                               "Jun", "Jul",
                               "Aug", "Sep", 
-                              "Oct", "Nov","Dec"))
+                              "Oct", "Nov","Dec")) + scale_color_manual(values=c("#999999", "#56B4E9", "#E69F00"))
 
 p3
 
@@ -341,7 +341,7 @@ p4 <- ggplot(charts.data, aes(x = Months, y = Value, color = ClimateZone)) +
                               "Mar", "Apr", "May", 
                               "Jun", "Jul",
                               "Aug", "Sep", 
-                              "Oct", "Nov","Dec"))
+                              "Oct", "Nov","Dec")) + scale_color_manual(values=c("#999999", "#E69F00", "#56B4E9"))
 
 p4
 
@@ -420,6 +420,8 @@ df <- data.frame(Values, Months, Years)
 
 df
 
+
+
 x  <- ggplot(data = df,
        aes(x = as.factor(sort(Months)), 
            y = Values,
@@ -441,11 +443,11 @@ x  <- ggplot(data = df,
     axis.text=element_text(size=12,face="bold"),
     axis.title=element_text(size=14,face="bold"),
     plot.title = element_text(size = 16, face = "bold",hjust = 0.5),
-    panel.spacing = unit(0.05, "cm")) + scale_fill_brewer(palette="YlOrRd")
+    panel.spacing = unit(0.05, "cm"))
 
+x
 
-
-tiff("MGDCiM.tiff", units="in", width=10, height=6, res=300)
+tiff("MGDCiM2.tiff", units="in", width=10, height=6, res=300)
 
 gridExtra::grid.arrange(x)
 dev.off()
